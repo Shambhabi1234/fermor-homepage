@@ -2,8 +2,8 @@
 
 A redesigned homepage for Fermor, built with Next.js (App Router) and Tailwind CSS v4.
 
-**Live:** add your Vercel URL here
-**Repo:** add your GitHub URL here
+**Live:** https://fermor-homepage-mocha.vercel.app
+**Repo:** https://github.com/Shambhabi1234/fermor-homepage
 
 ## Setup
 ```bash
